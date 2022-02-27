@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/knocal-frontend/static/css/main.84f3186d.css",
+    "main.js": "/knocal-frontend/static/js/main.a9085fae.js",
+    "static/js/787.cda612ba.chunk.js": "/knocal-frontend/static/js/787.cda612ba.chunk.js",
+    "static/media/loader.gif": "/knocal-frontend/static/media/loader.031fb82428220fa6096b.gif",
+    "index.html": "/knocal-frontend/index.html",
+    "main.84f3186d.css.map": "/knocal-frontend/static/css/main.84f3186d.css.map",
+    "main.a9085fae.js.map": "/knocal-frontend/static/js/main.a9085fae.js.map",
+    "787.cda612ba.chunk.js.map": "/knocal-frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84f3186d.css",
+    "static/js/main.a9085fae.js"
+  ]
+}
